@@ -6,4 +6,6 @@
     <string name="nao_confirmado">Não Confirmado</string>
     <string name="sim">Sim</string>
     <string name="nao">Não</string>
+    <string name="dias">dias</string>
+    <string name="data_hoje">25/10/2018</string>
 </resources>
